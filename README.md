@@ -7,7 +7,7 @@ MemoMate is a sleek and intuitive Notes app built using Java. It's the culminati
 * Colorful Notes: Notes appear in two columns with randomly selected colors for a personalized touch.
 * Convenient Actions: Long-press on note cards to access options for pinning/unpinning or deleting notes.
 
-![app screenshot]([blob:https://github.com/1e6e3055-8836-4f16-8996-8a7f8c3a39f0](https://github.com/kareemessam09/MemoMate_NotesApp/blob/master/app%20screenshot.jpg?raw=true))
+![app screenshot](https://github.com/1e6e3055-8836-4f16-8996-8a7f8c3a39f0](https://github.com/kareemessam09/MemoMate_NotesApp/blob/master/app%20screenshot.jpg?raw=true))
   
 # Getting Started
 To get started with MemoMate, simply clone this repository and run it on your local machine. Make sure you have the necessary dependencies installed.
